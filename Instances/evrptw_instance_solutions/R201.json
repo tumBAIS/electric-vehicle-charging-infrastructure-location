@@ -1,0 +1,1180 @@
+{
+    "itineraries": [
+        {
+            "vehicle": "Route0",
+            "route": [
+                {
+                    "_type": "Point",
+                    "id": "Depot",
+                    "arrival_time": 0,
+                    "departure_time": 0,
+                    "soc": 187.86,
+                    "type": 1,
+                    "accumulated_charged_energy": 0,
+                    "accumulated_consumed_energy": 0
+                },
+                {
+                    "_type": "Point",
+                    "id": "C70",
+                    "arrival_time": 75942,
+                    "departure_time": 79200,
+                    "soc": 166.765,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 21.095
+                },
+                {
+                    "_type": "Point",
+                    "id": "C1",
+                    "arrival_time": 108224,
+                    "departure_time": 108224,
+                    "soc": 158.703,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 29.157
+                },
+                {
+                    "_type": "Point",
+                    "id": "C80",
+                    "arrival_time": 177377,
+                    "departure_time": 177377,
+                    "soc": 139.494,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 48.366
+                },
+                {
+                    "_type": "Point",
+                    "id": "C77",
+                    "arrival_time": 201526,
+                    "departure_time": 309600,
+                    "soc": 132.786,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 55.074
+                },
+                {
+                    "_type": "Point",
+                    "id": "C79",
+                    "arrival_time": 332651,
+                    "departure_time": 332651,
+                    "soc": 126.383,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 61.477
+                },
+                {
+                    "_type": "Point",
+                    "id": "C81",
+                    "arrival_time": 355419,
+                    "departure_time": 355419,
+                    "soc": 120.058,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 67.802
+                },
+                {
+                    "_type": "Point",
+                    "id": "C65",
+                    "arrival_time": 441968,
+                    "departure_time": 441968,
+                    "soc": 96.016,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 91.844
+                },
+                {
+                    "_type": "Point",
+                    "id": "C34",
+                    "arrival_time": 521900,
+                    "departure_time": 521900,
+                    "soc": 73.812,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 114.048
+                },
+                {
+                    "_type": "Point",
+                    "id": "C78",
+                    "arrival_time": 539900,
+                    "departure_time": 828000,
+                    "soc": 68.812,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 119.048
+                },
+                {
+                    "_type": "Point",
+                    "id": "C33",
+                    "arrival_time": 856800,
+                    "departure_time": 896400,
+                    "soc": 60.812,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 127.048
+                },
+                {
+                    "_type": "Point",
+                    "id": "C76",
+                    "arrival_time": 935173,
+                    "departure_time": 935173,
+                    "soc": 50.042,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 137.818
+                },
+                {
+                    "_type": "Point",
+                    "id": "C27",
+                    "arrival_time": 986084,
+                    "departure_time": 1076400,
+                    "soc": 35.9,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 151.96
+                },
+                {
+                    "_type": "Point",
+                    "id": "C52",
+                    "arrival_time": 1107158,
+                    "departure_time": 1107158,
+                    "soc": 27.356,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 160.504
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 1140348,
+                    "departure_time": 1205148,
+                    "soc": 130.636,
+                    "type": 4,
+                    "accumulated_charged_energy": 112.5,
+                    "accumulated_consumed_energy": 169.724
+                },
+                {
+                    "_type": "Point",
+                    "id": "C88",
+                    "arrival_time": 1254113,
+                    "departure_time": 1254113,
+                    "soc": 117.035,
+                    "type": 2,
+                    "accumulated_charged_energy": 112.5,
+                    "accumulated_consumed_energy": 183.325
+                },
+                {
+                    "_type": "Point",
+                    "id": "C19",
+                    "arrival_time": 1303078,
+                    "departure_time": 1303078,
+                    "soc": 103.434,
+                    "type": 2,
+                    "accumulated_charged_energy": 112.5,
+                    "accumulated_consumed_energy": 196.926
+                },
+                {
+                    "_type": "Point",
+                    "id": "C48",
+                    "arrival_time": 1332764,
+                    "departure_time": 1504800,
+                    "soc": 95.188,
+                    "type": 2,
+                    "accumulated_charged_energy": 112.5,
+                    "accumulated_consumed_energy": 205.172
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 1548298,
+                    "departure_time": 1598698,
+                    "soc": 170.605,
+                    "type": 4,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 217.255
+                },
+                {
+                    "_type": "Point",
+                    "id": "C18",
+                    "arrival_time": 1606747,
+                    "departure_time": 1606747,
+                    "soc": 168.369,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 219.491
+                },
+                {
+                    "_type": "Point",
+                    "id": "C69",
+                    "arrival_time": 1672932,
+                    "departure_time": 1684800,
+                    "soc": 149.984,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 237.876
+                },
+                {
+                    "_type": "Point",
+                    "id": "C50",
+                    "arrival_time": 1720800,
+                    "departure_time": 1825200,
+                    "soc": 139.984,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 247.876
+                },
+                {
+                    "_type": "Point",
+                    "id": "C32",
+                    "arrival_time": 1915415,
+                    "departure_time": 1915415,
+                    "soc": 114.924,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 272.936
+                },
+                {
+                    "_type": "Point",
+                    "id": "C90",
+                    "arrival_time": 1931514,
+                    "departure_time": 1931514,
+                    "soc": 110.452,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 277.408
+                },
+                {
+                    "_type": "Point",
+                    "id": "C10",
+                    "arrival_time": 1956969,
+                    "departure_time": 2106000,
+                    "soc": 103.381,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 284.479
+                },
+                {
+                    "_type": "Point",
+                    "id": "C31",
+                    "arrival_time": 2135024,
+                    "departure_time": 2135024,
+                    "soc": 95.319,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 292.541
+                },
+                {
+                    "_type": "Point",
+                    "id": "C30",
+                    "arrival_time": 2178373,
+                    "departure_time": 2178373,
+                    "soc": 83.277,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 304.583
+                },
+                {
+                    "_type": "Point",
+                    "id": "C9",
+                    "arrival_time": 2232373,
+                    "departure_time": 2232373,
+                    "soc": 68.277,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 319.583
+                },
+                {
+                    "_type": "Point",
+                    "id": "C20",
+                    "arrival_time": 2272622,
+                    "departure_time": 2444400,
+                    "soc": 57.097,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 330.763
+                },
+                {
+                    "_type": "Point",
+                    "id": "C66",
+                    "arrival_time": 2476599,
+                    "departure_time": 2476599,
+                    "soc": 48.153,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 339.707
+                },
+                {
+                    "_type": "Point",
+                    "id": "C71",
+                    "arrival_time": 2510561,
+                    "departure_time": 2556000,
+                    "soc": 38.719,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 349.141
+                },
+                {
+                    "_type": "Point",
+                    "id": "C35",
+                    "arrival_time": 2580149,
+                    "departure_time": 2613600,
+                    "soc": 32.011,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 355.849
+                },
+                {
+                    "_type": "Point",
+                    "id": "C51",
+                    "arrival_time": 2669948,
+                    "departure_time": 2793600,
+                    "soc": 16.359,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 371.501
+                },
+                {
+                    "_type": "Point",
+                    "id": "C3",
+                    "arrival_time": 2845144,
+                    "departure_time": 2845144,
+                    "soc": 2.041,
+                    "type": 2,
+                    "accumulated_charged_energy": 200.0,
+                    "accumulated_consumed_energy": 385.819
+                },
+                {
+                    "_type": "Point",
+                    "id": "C3_to_C29_dynamic_charger",
+                    "arrival_time": 2862220,
+                    "departure_time": 2862220,
+                    "soc": 35.993,
+                    "type": 8,
+                    "accumulated_charged_energy": 238.695,
+                    "accumulated_consumed_energy": 390.562
+                },
+                {
+                    "_type": "Point",
+                    "id": "C29",
+                    "arrival_time": 2879296,
+                    "departure_time": 3049200,
+                    "soc": 69.944,
+                    "type": 2,
+                    "accumulated_charged_energy": 277.39,
+                    "accumulated_consumed_energy": 395.306
+                },
+                {
+                    "_type": "Point",
+                    "id": "C24",
+                    "arrival_time": 3283200,
+                    "departure_time": 3283200,
+                    "soc": 62.873,
+                    "type": 2,
+                    "accumulated_charged_energy": 277.39,
+                    "accumulated_consumed_energy": 402.377
+                },
+                {
+                    "_type": "Point",
+                    "id": "C12",
+                    "arrival_time": 3362400,
+                    "departure_time": 3362400,
+                    "soc": 47.873,
+                    "type": 2,
+                    "accumulated_charged_energy": 277.39,
+                    "accumulated_consumed_energy": 417.377
+                },
+                {
+                    "_type": "Point",
+                    "id": "C73",
+                    "arrival_time": 3456000,
+                    "departure_time": 3456000,
+                    "soc": 28.899,
+                    "type": 2,
+                    "accumulated_charged_energy": 277.39,
+                    "accumulated_consumed_energy": 436.351
+                },
+                {
+                    "_type": "Point",
+                    "id": "Depot",
+                    "arrival_time": 3600000,
+                    "departure_time": 3600000,
+                    "soc": 8.774,
+                    "type": 1,
+                    "accumulated_charged_energy": 277.39,
+                    "accumulated_consumed_energy": 456.476
+                }
+            ]
+        },
+        {
+            "vehicle": "Route1",
+            "route": [
+                {
+                    "_type": "Point",
+                    "id": "Depot",
+                    "arrival_time": 0,
+                    "departure_time": 0,
+                    "soc": 187.86,
+                    "type": 1,
+                    "accumulated_charged_energy": 0,
+                    "accumulated_consumed_energy": 0
+                },
+                {
+                    "_type": "Point",
+                    "id": "C7",
+                    "arrival_time": 76367,
+                    "departure_time": 115200,
+                    "soc": 166.647,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 21.213
+                },
+                {
+                    "_type": "Point",
+                    "id": "C46",
+                    "arrival_time": 180398,
+                    "departure_time": 208800,
+                    "soc": 148.536,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 39.324
+                },
+                {
+                    "_type": "Point",
+                    "id": "C8",
+                    "arrival_time": 242762,
+                    "departure_time": 255600,
+                    "soc": 139.102,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 48.758
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 285286,
+                    "departure_time": 317686,
+                    "soc": 187.106,
+                    "type": 4,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 57.004
+                },
+                {
+                    "_type": "Point",
+                    "id": "C5",
+                    "arrival_time": 358732,
+                    "departure_time": 358732,
+                    "soc": 175.704,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 68.406
+                },
+                {
+                    "_type": "Point",
+                    "id": "C99",
+                    "arrival_time": 381783,
+                    "departure_time": 381783,
+                    "soc": 169.301,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 74.809
+                },
+                {
+                    "_type": "Point",
+                    "id": "C100",
+                    "arrival_time": 411469,
+                    "departure_time": 424800,
+                    "soc": 161.055,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 83.055
+                },
+                {
+                    "_type": "Point",
+                    "id": "C14",
+                    "arrival_time": 455558,
+                    "departure_time": 626400,
+                    "soc": 152.511,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 91.599
+                },
+                {
+                    "_type": "Point",
+                    "id": "C92",
+                    "arrival_time": 676412,
+                    "departure_time": 802800,
+                    "soc": 138.619,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 105.491
+                },
+                {
+                    "_type": "Point",
+                    "id": "C84",
+                    "arrival_time": 853965,
+                    "departure_time": 1130400,
+                    "soc": 124.406,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 119.704
+                },
+                {
+                    "_type": "Point",
+                    "id": "C61",
+                    "arrival_time": 1155855,
+                    "departure_time": 1184400,
+                    "soc": 117.335,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 126.775
+                },
+                {
+                    "_type": "Point",
+                    "id": "C91",
+                    "arrival_time": 1205391,
+                    "departure_time": 1666800,
+                    "soc": 111.504,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 132.606
+                },
+                {
+                    "_type": "Point",
+                    "id": "C98",
+                    "arrival_time": 1682899,
+                    "departure_time": 1682899,
+                    "soc": 107.032,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 137.078
+                },
+                {
+                    "_type": "Point",
+                    "id": "C37",
+                    "arrival_time": 1687990,
+                    "departure_time": 1800000,
+                    "soc": 105.618,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 138.492
+                },
+                {
+                    "_type": "Point",
+                    "id": "C87",
+                    "arrival_time": 1829686,
+                    "departure_time": 1908000,
+                    "soc": 97.372,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 146.738
+                },
+                {
+                    "_type": "Point",
+                    "id": "C43",
+                    "arrival_time": 1964920,
+                    "departure_time": 1964920,
+                    "soc": 81.561,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 162.549
+                },
+                {
+                    "_type": "Point",
+                    "id": "C38",
+                    "arrival_time": 2030118,
+                    "departure_time": 2113200,
+                    "soc": 63.45,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 180.66
+                },
+                {
+                    "_type": "Point",
+                    "id": "C44",
+                    "arrival_time": 2152139,
+                    "departure_time": 2152139,
+                    "soc": 52.633,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 191.477
+                },
+                {
+                    "_type": "Point",
+                    "id": "C16",
+                    "arrival_time": 2174036,
+                    "departure_time": 2174036,
+                    "soc": 46.55,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 197.56
+                },
+                {
+                    "_type": "Point",
+                    "id": "C93",
+                    "arrival_time": 2206235,
+                    "departure_time": 2206235,
+                    "soc": 37.606,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 206.504
+                },
+                {
+                    "_type": "Point",
+                    "id": "C85",
+                    "arrival_time": 2216417,
+                    "departure_time": 2216417,
+                    "soc": 34.778,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 209.332
+                },
+                {
+                    "_type": "Point",
+                    "id": "C17",
+                    "arrival_time": 2265382,
+                    "departure_time": 2700000,
+                    "soc": 21.177,
+                    "type": 2,
+                    "accumulated_charged_energy": 56.25,
+                    "accumulated_consumed_energy": 222.933
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 2761305,
+                    "departure_time": 2836748,
+                    "soc": 116.648,
+                    "type": 4,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 239.962
+                },
+                {
+                    "_type": "Point",
+                    "id": "C40",
+                    "arrival_time": 2934679,
+                    "departure_time": 2934679,
+                    "soc": 89.445,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 267.165
+                },
+                {
+                    "_type": "Point",
+                    "id": "C4",
+                    "arrival_time": 2991600,
+                    "departure_time": 2991600,
+                    "soc": 73.634,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 282.976
+                },
+                {
+                    "_type": "Point",
+                    "id": "C56",
+                    "arrival_time": 3156313,
+                    "departure_time": 3156313,
+                    "soc": 65.388,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 291.222
+                },
+                {
+                    "_type": "Point",
+                    "id": "C22",
+                    "arrival_time": 3186000,
+                    "departure_time": 3186000,
+                    "soc": 57.142,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 299.468
+                },
+                {
+                    "_type": "Point",
+                    "id": "C41",
+                    "arrival_time": 3283200,
+                    "departure_time": 3283200,
+                    "soc": 52.899,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 303.711
+                },
+                {
+                    "_type": "Point",
+                    "id": "C15",
+                    "arrival_time": 3328526,
+                    "departure_time": 3328526,
+                    "soc": 40.733,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 315.877
+                },
+                {
+                    "_type": "Point",
+                    "id": "C96",
+                    "arrival_time": 3412800,
+                    "departure_time": 3412800,
+                    "soc": 17.324,
+                    "type": 2,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 339.286
+                },
+                {
+                    "_type": "Point",
+                    "id": "Depot",
+                    "arrival_time": 3600000,
+                    "departure_time": 3600000,
+                    "soc": 2.06,
+                    "type": 1,
+                    "accumulated_charged_energy": 168.75,
+                    "accumulated_consumed_energy": 354.55
+                }
+            ]
+        },
+        {
+            "vehicle": "Route2",
+            "route": [
+                {
+                    "_type": "Point",
+                    "id": "Depot",
+                    "arrival_time": 0,
+                    "departure_time": 0,
+                    "soc": 187.86,
+                    "type": 1,
+                    "accumulated_charged_energy": 0,
+                    "accumulated_consumed_energy": 0
+                },
+                {
+                    "_type": "Point",
+                    "id": "C13",
+                    "arrival_time": 40249,
+                    "departure_time": 43200,
+                    "soc": 176.68,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 11.18
+                },
+                {
+                    "_type": "Point",
+                    "id": "C95",
+                    "arrival_time": 61556,
+                    "departure_time": 61556,
+                    "soc": 171.581,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 16.279
+                },
+                {
+                    "_type": "Point",
+                    "id": "C59",
+                    "arrival_time": 75956,
+                    "departure_time": 75956,
+                    "soc": 167.581,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 20.279
+                },
+                {
+                    "_type": "Point",
+                    "id": "C42",
+                    "arrival_time": 120485,
+                    "departure_time": 147600,
+                    "soc": 155.212,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 32.648
+                },
+                {
+                    "_type": "Point",
+                    "id": "C2",
+                    "arrival_time": 191098,
+                    "departure_time": 191098,
+                    "soc": 143.129,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 44.731
+                },
+                {
+                    "_type": "Point",
+                    "id": "C21",
+                    "arrival_time": 228683,
+                    "departure_time": 241200,
+                    "soc": 132.689,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 55.171
+                },
+                {
+                    "_type": "Point",
+                    "id": "C54",
+                    "arrival_time": 295200,
+                    "departure_time": 295200,
+                    "soc": 117.689,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 70.171
+                },
+                {
+                    "_type": "Point",
+                    "id": "C25",
+                    "arrival_time": 338549,
+                    "departure_time": 338549,
+                    "soc": 105.647,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 82.213
+                },
+                {
+                    "_type": "Point",
+                    "id": "C67",
+                    "arrival_time": 393026,
+                    "departure_time": 393026,
+                    "soc": 90.514,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 97.346
+                },
+                {
+                    "_type": "Point",
+                    "id": "C23",
+                    "arrival_time": 436226,
+                    "departure_time": 436226,
+                    "soc": 78.514,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 109.346
+                },
+                {
+                    "_type": "Point",
+                    "id": "C72",
+                    "arrival_time": 485191,
+                    "departure_time": 485191,
+                    "soc": 64.913,
+                    "type": 2,
+                    "accumulated_charged_energy": 0.0,
+                    "accumulated_consumed_energy": 122.947
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 623029,
+                    "departure_time": 713029,
+                    "soc": 182.875,
+                    "type": 4,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 161.235
+                },
+                {
+                    "_type": "Point",
+                    "id": "C26",
+                    "arrival_time": 817986,
+                    "departure_time": 817986,
+                    "soc": 153.72,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 190.39
+                },
+                {
+                    "_type": "Point",
+                    "id": "C39",
+                    "arrival_time": 902336,
+                    "departure_time": 1022400,
+                    "soc": 130.289,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 213.821
+                },
+                {
+                    "_type": "Point",
+                    "id": "C55",
+                    "arrival_time": 1063446,
+                    "departure_time": 1512000,
+                    "soc": 118.887,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 225.223
+                },
+                {
+                    "_type": "Point",
+                    "id": "C68",
+                    "arrival_time": 1574871,
+                    "departure_time": 1574871,
+                    "soc": 101.423,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 242.687
+                },
+                {
+                    "_type": "Point",
+                    "id": "C28",
+                    "arrival_time": 1629348,
+                    "departure_time": 1629348,
+                    "soc": 86.29,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 257.82
+                },
+                {
+                    "_type": "Point",
+                    "id": "C53",
+                    "arrival_time": 1655307,
+                    "departure_time": 1655307,
+                    "soc": 79.079,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 265.031
+                },
+                {
+                    "_type": "Point",
+                    "id": "C58",
+                    "arrival_time": 1673663,
+                    "departure_time": 1673663,
+                    "soc": 73.98,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 270.13
+                },
+                {
+                    "_type": "Point",
+                    "id": "C74",
+                    "arrival_time": 1732707,
+                    "departure_time": 1732707,
+                    "soc": 57.579,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 286.531
+                },
+                {
+                    "_type": "Point",
+                    "id": "C75",
+                    "arrival_time": 1745686,
+                    "departure_time": 1933200,
+                    "soc": 53.973,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 290.137
+                },
+                {
+                    "_type": "Point",
+                    "id": "C57",
+                    "arrival_time": 1994505,
+                    "departure_time": 1994505,
+                    "soc": 36.944,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 307.166
+                },
+                {
+                    "_type": "Point",
+                    "id": "C97",
+                    "arrival_time": 2035551,
+                    "departure_time": 2037600,
+                    "soc": 25.542,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 318.568
+                },
+                {
+                    "_type": "Point",
+                    "id": "C94",
+                    "arrival_time": 2059497,
+                    "departure_time": 2059497,
+                    "soc": 19.459,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 324.651
+                },
+                {
+                    "_type": "Point",
+                    "id": "C6",
+                    "arrival_time": 2070881,
+                    "departure_time": 2070881,
+                    "soc": 16.297,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 327.813
+                },
+                {
+                    "_type": "Point",
+                    "id": "C89",
+                    "arrival_time": 2089237,
+                    "departure_time": 2089237,
+                    "soc": 11.198,
+                    "type": 2,
+                    "accumulated_charged_energy": 156.25,
+                    "accumulated_consumed_energy": 332.912
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 2125237,
+                    "departure_time": 2172037,
+                    "soc": 82.448,
+                    "type": 4,
+                    "accumulated_charged_energy": 237.5,
+                    "accumulated_consumed_energy": 342.912
+                },
+                {
+                    "_type": "Point",
+                    "id": "C60",
+                    "arrival_time": 2197492,
+                    "departure_time": 2197492,
+                    "soc": 75.377,
+                    "type": 2,
+                    "accumulated_charged_energy": 237.5,
+                    "accumulated_consumed_energy": 349.983
+                },
+                {
+                    "_type": "Point",
+                    "id": "C83",
+                    "arrival_time": 2212765,
+                    "departure_time": 2212765,
+                    "soc": 71.134,
+                    "type": 2,
+                    "accumulated_charged_energy": 237.5,
+                    "accumulated_consumed_energy": 354.226
+                },
+                {
+                    "_type": "Point",
+                    "id": "S9",
+                    "arrival_time": 2233129,
+                    "departure_time": 2681603,
+                    "soc": 177.977,
+                    "type": 4,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 359.883
+                },
+                {
+                    "_type": "Point",
+                    "id": "C82",
+                    "arrival_time": 2705753,
+                    "departure_time": 2705753,
+                    "soc": 171.269,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 366.591
+                },
+                {
+                    "_type": "Point",
+                    "id": "C47",
+                    "arrival_time": 2746800,
+                    "departure_time": 2746800,
+                    "soc": 159.867,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 377.993
+                },
+                {
+                    "_type": "Point",
+                    "id": "C49",
+                    "arrival_time": 2862979,
+                    "departure_time": 2862979,
+                    "soc": 147.701,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 390.159
+                },
+                {
+                    "_type": "Point",
+                    "id": "C64",
+                    "arrival_time": 2908800,
+                    "departure_time": 2908800,
+                    "soc": 134.973,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 402.887
+                },
+                {
+                    "_type": "Point",
+                    "id": "C11",
+                    "arrival_time": 2955600,
+                    "departure_time": 2955600,
+                    "soc": 121.973,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 415.887
+                },
+                {
+                    "_type": "Point",
+                    "id": "C63",
+                    "arrival_time": 3135767,
+                    "departure_time": 3135767,
+                    "soc": 113.911,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 423.949
+                },
+                {
+                    "_type": "Point",
+                    "id": "C62",
+                    "arrival_time": 3176814,
+                    "departure_time": 3176814,
+                    "soc": 102.509,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 435.351
+                },
+                {
+                    "_type": "Point",
+                    "id": "C36",
+                    "arrival_time": 3256341,
+                    "departure_time": 3256341,
+                    "soc": 80.418,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 457.442
+                },
+                {
+                    "_type": "Point",
+                    "id": "C45",
+                    "arrival_time": 3336840,
+                    "departure_time": 3336840,
+                    "soc": 58.057,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 479.803
+                },
+                {
+                    "_type": "Point",
+                    "id": "C86",
+                    "arrival_time": 3409200,
+                    "departure_time": 3409200,
+                    "soc": 37.957,
+                    "type": 2,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 499.903
+                },
+                {
+                    "_type": "Point",
+                    "id": "Depot",
+                    "arrival_time": 3600000,
+                    "departure_time": 3600000,
+                    "soc": 2.602,
+                    "type": 1,
+                    "accumulated_charged_energy": 350.0,
+                    "accumulated_consumed_energy": 535.258
+                }
+            ]
+        }
+    ],
+    "dynamic_invest": {
+        "DC_C3_C29_0-DC_C3_C29_1": {
+            "id": "C3_to_C29_dynamic_charger",
+            "charger_cost": 3.095611,
+            "transformer_cost_share": 1.8605,
+            "key_0": "DC_C3_C29_0",
+            "key_1": "DC_C3_C29_1"
+        }
+    },
+    "static_invest": {
+        "S9": {
+            "id": "S9_static_charger",
+            "charger_cost": 0.0,
+            "transformer_cost_share": 21.4115
+        }
+    },
+    "routing_cost": 107.1212,
+    "consumed_energy": 1346.284,
+    "recharged_energy": 796.14,
+    "investment_cost": 26.3676,
+    "total_cost": 133.4888
+}

@@ -1,0 +1,5073 @@
+{
+    "_network": {
+        "directed": true,
+        "multigraph": false,
+        "graph": {},
+        "nodes": [
+            {
+                "id": "146305719-Kirchgasse-973812018",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1029046344906,
+                    "lon": 10.999674339656886
+                },
+                "constructible_charger": [],
+                "name": "146305719-Kirchgasse-973812018"
+            },
+            {
+                "id": "165132555",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10895679999999,
+                    "lon": 10.9961005
+                },
+                "constructible_charger": [],
+                "name": "165132555"
+            },
+            {
+                "id": "1846362584",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107108399999994,
+                    "lon": 10.9884119
+                },
+                "constructible_charger": [],
+                "name": "1846362584"
+            },
+            {
+                "id": "1906508171",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1093582,
+                    "lon": 10.9956627
+                },
+                "constructible_charger": [],
+                "name": "1906508171"
+            },
+            {
+                "id": "251344514-Stadtmuseum-4359009412",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10357981934007,
+                    "lon": 11.000597032240535
+                },
+                "constructible_charger": [],
+                "name": "251344514-Stadtmuseum-4359009412"
+            },
+            {
+                "id": "281572676",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1094274,
+                    "lon": 10.9954387
+                },
+                "constructible_charger": [],
+                "name": "281572676"
+            },
+            {
+                "id": "4359009412",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103639699999995,
+                    "lon": 11.0004946
+                },
+                "constructible_charger": [],
+                "name": "4359009412"
+            },
+            {
+                "id": "970745483",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109329200000005,
+                    "lon": 10.9948904
+                },
+                "constructible_charger": [],
+                "name": "970745483"
+            },
+            {
+                "id": "970745483-Kurhotel_Temp-1846362584",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108728236957845,
+                    "lon": 10.994160970837031
+                },
+                "constructible_charger": [],
+                "name": "970745483-Kurhotel_Temp-1846362584"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108942373339175,
+                    "lon": 10.994336357636593
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node0"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10901924764678,
+                    "lon": 10.994408880632266
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node1"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node10",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10935392134022,
+                    "lon": 10.995646060756851
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node10"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109095353244484,
+                    "lon": 10.994483291530337
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node2"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10916720826289,
+                    "lon": 10.994566798858436
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node3"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109229250411495,
+                    "lon": 10.994667352738677
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node4"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10928293017357,
+                    "lon": 10.99477947677064
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node5"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10936232354789,
+                    "lon": 10.995028441996686
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node6"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node7",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10939101093554,
+                    "lon": 10.99516093515162
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node7"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node8",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10941078041925,
+                    "lon": 10.995297330606439
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node8"
+            },
+            {
+                "id": "AmKurparkIn-2_segment_node9",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109357704006065,
+                    "lon": 10.99551245137299
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-2_segment_node9"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10886810302242,
+                    "lon": 10.996119742934871
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node0"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10878068038288,
+                    "lon": 10.996091486556608
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node1"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108700498472544,
+                    "lon": 10.996029356506673
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node2"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10862984603318,
+                    "lon": 10.995943658832674
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node3"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10857493873145,
+                    "lon": 10.995833939007078
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node4"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108528494935015,
+                    "lon": 10.99571423538946
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node5"
+            },
+            {
+                "id": "AmKurparkIn-3_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10848073767408,
+                    "lon": 10.995596101241802
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkIn-3_segment_node6"
+            },
+            {
+                "id": "AmKurparkOut-2_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10928951316087,
+                    "lon": 10.994793993103347
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut-2_segment_node0"
+            },
+            {
+                "id": "AmKurparkOut-2_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109236479101476,
+                    "lon": 10.994681106286581
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut-2_segment_node1"
+            },
+            {
+                "id": "AmKurparkOut-2_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109175781226426,
+                    "lon": 10.994578537656361
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut-2_segment_node2"
+            },
+            {
+                "id": "AmKurparkOut-2_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.109104885754256,
+                    "lon": 10.99449307891941
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut-2_segment_node3"
+            },
+            {
+                "id": "AmKurparkOut-2_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10902901386348,
+                    "lon": 10.994418094072476
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut-2_segment_node4"
+            },
+            {
+                "id": "AmKurparkOut-2_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10895213956211,
+                    "lon": 10.994345571047008
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut-2_segment_node5"
+            },
+            {
+                "id": "AmKurparkOut_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108646963290575,
+                    "lon": 10.994101183166373
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node0"
+            },
+            {
+                "id": "AmKurparkOut_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10856866193579,
+                    "lon": 10.994032608356296
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node1"
+            },
+            {
+                "id": "AmKurparkOut_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108494689764875,
+                    "lon": 10.99395343792592
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node2"
+            },
+            {
+                "id": "AmKurparkOut_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108426132390136,
+                    "lon": 10.993863047164002
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node3"
+            },
+            {
+                "id": "AmKurparkOut_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10836159514363,
+                    "lon": 10.993765694261116
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node4"
+            },
+            {
+                "id": "AmKurparkOut_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1083003708681,
+                    "lon": 10.993663593511146
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node5"
+            },
+            {
+                "id": "AmKurparkOut_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10824413259573,
+                    "lon": 10.993554545818991
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node6"
+            },
+            {
+                "id": "AmKurparkOut_segment_node7",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108190580418054,
+                    "lon": 10.99344223404531
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node7"
+            },
+            {
+                "id": "AmKurparkOut_segment_node8",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.108142485807726,
+                    "lon": 10.993324191526977
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node8"
+            },
+            {
+                "id": "AmKurparkOut_segment_node9",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1080986456354,
+                    "lon": 10.993202368373117
+                },
+                "constructible_charger": [],
+                "name": "AmKurparkOut_segment_node9"
+            },
+            {
+                "id": "Bahnhof",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.1082545331166,
+                    "lon": 10.994908175749439
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Bahnhof_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Bahnhof"
+            },
+            {
+                "id": "BahnhofstraßeIn_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1076972648172,
+                    "lon": 10.995618302802821
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeIn_segment_node0"
+            },
+            {
+                "id": "BahnhofstraßeIn_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107616213094445,
+                    "lon": 10.99567883586718
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeIn_segment_node1"
+            },
+            {
+                "id": "BahnhofstraßeIn_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10753516532421,
+                    "lon": 10.995739381623487
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeIn_segment_node2"
+            },
+            {
+                "id": "BahnhofstraßeIn_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10745374861105,
+                    "lon": 10.995798713864616
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeIn_segment_node3"
+            },
+            {
+                "id": "BahnhofstraßeIn_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10737222071794,
+                    "lon": 10.99585768034412
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeIn_segment_node4"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10512439150897,
+                    "lon": 10.99713092593713
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node0"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10521118538839,
+                    "lon": 10.997094403221872
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node1"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.105297979256676,
+                    "lon": 10.997057880378781
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node2"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10538477311383,
+                    "lon": 10.997021357407858
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node3"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10547156695987,
+                    "lon": 10.99698483430911
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node4"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10555836079475,
+                    "lon": 10.996948311082525
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node5"
+            },
+            {
+                "id": "BahnhofstraßeOut-3_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10564515461852,
+                    "lon": 10.996911787728108
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-3_segment_node6"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103603841419485,
+                    "lon": 10.997787478510862
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node0"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1036908295243,
+                    "lon": 10.997752091579146
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node1"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10377794533861,
+                    "lon": 10.997717612710328
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node2"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10386649390238,
+                    "lon": 10.997693320967974
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node3"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10395503806103,
+                    "lon": 10.997668990398749
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node4"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10404358221438,
+                    "lon": 10.997644659744381
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node5"
+            },
+            {
+                "id": "BahnhofstraßeOut-4_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10413212636243,
+                    "lon": 10.997620329004874
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut-4_segment_node6"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.105828569399975,
+                    "lon": 10.996828430836224
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node0"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10591442903144,
+                    "lon": 10.996786910944394
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node1"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node10",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10667378379889,
+                    "lon": 10.996355938336466
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node10"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10600028864864,
+                    "lon": 10.996745390908076
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node2"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.106086148251585,
+                    "lon": 10.996703870727275
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node3"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10617200784024,
+                    "lon": 10.996662350401989
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node4"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10625786741464,
+                    "lon": 10.996620829932217
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node5"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10634184317044,
+                    "lon": 10.996571245191769
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node6"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node7",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10642482836332,
+                    "lon": 10.99651741875192
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node7"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node8",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10650781353236,
+                    "lon": 10.996463592129421
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node8"
+            },
+            {
+                "id": "BahnhofstraßeOut_segment_node9",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.106590798677544,
+                    "lon": 10.99640976532427
+                },
+                "constructible_charger": [],
+                "name": "BahnhofstraßeOut_segment_node9"
+            },
+            {
+                "id": "Depot",
+                "is_depot": true,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10697528785887,
+                    "lon": 10.98621227857733
+                },
+                "constructible_charger": [],
+                "name": "Depot"
+            },
+            {
+                "id": "Innenstadt_Temp",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.102650126209994,
+                    "lon": 10.998910283390796
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Innenstadt_Temp_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Innenstadt_Temp"
+            },
+            {
+                "id": "Italienischer_Platz",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.10348484470629,
+                    "lon": 10.997930630826074
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Italienischer_Platz_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Italienischer_Platz"
+            },
+            {
+                "id": "Kirchgasse",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.102871559892975,
+                    "lon": 10.99971822564674
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Kirchgasse"
+            },
+            {
+                "id": "Kirchgasse1_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10266226368821,
+                    "lon": 10.999154870184212
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse1_segment_node0"
+            },
+            {
+                "id": "Kirchgasse1_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.102714685660544,
+                    "lon": 10.999268450570003
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse1_segment_node1"
+            },
+            {
+                "id": "Kirchgasse1_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.102767107518275,
+                    "lon": 10.999382031202254
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse1_segment_node2"
+            },
+            {
+                "id": "Kirchgasse1_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1028195292614,
+                    "lon": 10.999495612080963
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse1_segment_node3"
+            },
+            {
+                "id": "Kirchgasse1_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10287195088993,
+                    "lon": 10.999609193206137
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse1_segment_node4"
+            },
+            {
+                "id": "Kirchgasse2_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.102992738788785,
+                    "lon": 10.999838944284665
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse2_segment_node0"
+            },
+            {
+                "id": "Kirchgasse2_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10304652631655,
+                    "lon": 10.999950971452503
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse2_segment_node1"
+            },
+            {
+                "id": "Kirchgasse2_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103100313732654,
+                    "lon": 11.000062998869963
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse2_segment_node2"
+            },
+            {
+                "id": "Kirchgasse2_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10315410103711,
+                    "lon": 11.000175026537041
+                },
+                "constructible_charger": [],
+                "name": "Kirchgasse2_segment_node3"
+            },
+            {
+                "id": "Kurhotel_Temp",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.10876215116676,
+                    "lon": 10.994050935534307
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Kurhotel_Temp_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Kurhotel_Temp"
+            },
+            {
+                "id": "Kurpark_Temp",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.107949484686905,
+                    "lon": 10.992366484872777
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Kurpark_Temp_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Kurpark_Temp"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10708626219158,
+                    "lon": 10.98852317993172
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node0"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10709265371154,
+                    "lon": 10.988662032671497
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node1"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node10",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10730448070546,
+                    "lon": 10.989875565382366
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node10"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10711312804974,
+                    "lon": 10.988798170187073
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node2"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10713360222679,
+                    "lon": 10.988934307814398
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node3"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107154076242686,
+                    "lon": 10.989070445553477
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node4"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107174550097426,
+                    "lon": 10.989206583404306
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node5"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10719722165787,
+                    "lon": 10.989341843057929
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node6"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node7",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1072232755515,
+                    "lon": 10.989475647622204
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node7"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node8",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10724979864365,
+                    "lon": 10.989609237389416
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node8"
+            },
+            {
+                "id": "OberauerstraßeIn_segment_node9",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10727632158016,
+                    "lon": 10.989742827300221
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeIn_segment_node9"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107162760349794,
+                    "lon": 10.988300533183526
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node0"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10723326810544,
+                    "lon": 10.988217856569237
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node1"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10730924925136,
+                    "lon": 10.988143350915609
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node2"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107375948873084,
+                    "lon": 10.988053048242493
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node3"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107413525979936,
+                    "lon": 10.987927454452182
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node4"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10741980875737,
+                    "lon": 10.987791570661182
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node5"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10740360365566,
+                    "lon": 10.987654079174828
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node6"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node7",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10738475712131,
+                    "lon": 10.987517373619754
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node7"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node8",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10736591042458,
+                    "lon": 10.987380668167578
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node8"
+            },
+            {
+                "id": "OberauerstraßeOut_segment_node9",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.107347063565456,
+                    "lon": 10.987243962818296
+                },
+                "constructible_charger": [],
+                "name": "OberauerstraßeOut_segment_node9"
+            },
+            {
+                "id": "Obermaintherme",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.10741731566816,
+                    "lon": 10.991490618606164
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Obermaintherme_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Obermaintherme"
+            },
+            {
+                "id": "Post_Temp",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.107872387805635,
+                    "lon": 10.995628164945762
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Post_Temp_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Post_Temp"
+            },
+            {
+                "id": "Ringstraße_segment_node0",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10369695927091,
+                    "lon": 11.000385294031481
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node0"
+            },
+            {
+                "id": "Ringstraße_segment_node1",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10374689687297,
+                    "lon": 11.000269038028671
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node1"
+            },
+            {
+                "id": "Ringstraße_segment_node10",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10376084404528,
+                    "lon": 10.999077875034368
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node10"
+            },
+            {
+                "id": "Ringstraße_segment_node11",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10371971553027,
+                    "lon": 10.998953603027644
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node11"
+            },
+            {
+                "id": "Ringstraße_segment_node12",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1036726507619,
+                    "lon": 10.998834483693088
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node12"
+            },
+            {
+                "id": "Ringstraße_segment_node13",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.1036255858681,
+                    "lon": 10.998715364589868
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node13"
+            },
+            {
+                "id": "Ringstraße_segment_node14",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103582308754056,
+                    "lon": 10.998592952796177
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node14"
+            },
+            {
+                "id": "Ringstraße_segment_node15",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103541684474436,
+                    "lon": 10.998468234922411
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node15"
+            },
+            {
+                "id": "Ringstraße_segment_node16",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103501060057994,
+                    "lon": 10.998343517256806
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node16"
+            },
+            {
+                "id": "Ringstraße_segment_node2",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10378567088563,
+                    "lon": 11.000143224115066
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node2"
+            },
+            {
+                "id": "Ringstraße_segment_node3",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10381988357959,
+                    "lon": 11.000014122291642
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node3"
+            },
+            {
+                "id": "Ringstraße_segment_node4",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103845797515035,
+                    "lon": 10.99988025365722
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node4"
+            },
+            {
+                "id": "Ringstraße_segment_node5",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10386905809745,
+                    "lon": 10.999745273129042
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node5"
+            },
+            {
+                "id": "Ringstraße_segment_node6",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10386962106122,
+                    "lon": 10.999605955377291
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node6"
+            },
+            {
+                "id": "Ringstraße_segment_node7",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10385841354078,
+                    "lon": 10.999467245145512
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node7"
+            },
+            {
+                "id": "Ringstraße_segment_node8",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.10383173472415,
+                    "lon": 10.999334182285567
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node8"
+            },
+            {
+                "id": "Ringstraße_segment_node9",
+                "is_depot": false,
+                "is_stop": false,
+                "coordinate": {
+                    "lat": 50.103801362615194,
+                    "lon": 10.999202676551691
+                },
+                "constructible_charger": [],
+                "name": "Ringstraße_segment_node9"
+            },
+            {
+                "id": "Stadtmuseum",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.103620485087106,
+                    "lon": 11.000654498763284
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Stadtmuseum_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Stadtmuseum"
+            },
+            {
+                "id": "Viktor_von_Scheffel",
+                "is_depot": false,
+                "is_stop": true,
+                "coordinate": {
+                    "lat": 50.1034373125163,
+                    "lon": 10.997758920503223
+                },
+                "constructible_charger": [
+                    {
+                        "id": "Viktor_von_Scheffel_static_charger",
+                        "segment_construction_cost": 0.0,
+                        "transformer_construction_cost": 5.04,
+                        "charging_rate": 7
+                    }
+                ],
+                "name": "Viktor_von_Scheffel"
+            }
+        ],
+        "links": [
+            {
+                "distance": 0.004,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "146305719-Kirchgasse-973812018",
+                "target": "Kirchgasse"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "165132555",
+                "target": "AmKurparkIn-3_segment_node0"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "1846362584",
+                "target": "OberauerstraßeOut_segment_node0"
+            },
+            {
+                "distance": 0.193,
+                "speed_limit": 18.000000000000004,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "1906508171",
+                "target": "Bahnhof"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "251344514-Stadtmuseum-4359009412",
+                "target": "4359009412"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "281572676",
+                "target": "AmKurparkIn-2_segment_node9"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "4359009412",
+                "target": "Ringstraße_segment_node0"
+            },
+            {
+                "distance": 0.011,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "970745483",
+                "target": "AmKurparkIn-2_segment_node6"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "970745483-Kurhotel_Temp-1846362584",
+                "target": "AmKurparkOut_segment_node0"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node0",
+                "target": "AmKurparkIn-2_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node1",
+                "target": "AmKurparkIn-2_segment_node2"
+            },
+            {
+                "distance": 0.001,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node10",
+                "target": "1906508171"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node2",
+                "target": "AmKurparkIn-2_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node3",
+                "target": "AmKurparkIn-2_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node4",
+                "target": "AmKurparkIn-2_segment_node5"
+            },
+            {
+                "distance": 0.009,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node5",
+                "target": "970745483"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node6",
+                "target": "AmKurparkIn-2_segment_node7"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node7",
+                "target": "AmKurparkIn-2_segment_node8"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node8",
+                "target": "281572676"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-2_segment_node9",
+                "target": "AmKurparkIn-2_segment_node10"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node0",
+                "target": "AmKurparkIn-3_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node1",
+                "target": "AmKurparkIn-3_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node2",
+                "target": "AmKurparkIn-3_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node3",
+                "target": "AmKurparkIn-3_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node4",
+                "target": "AmKurparkIn-3_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkIn-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node5",
+                "target": "AmKurparkIn-3_segment_node6"
+            },
+            {
+                "distance": 0.068,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkIn-3_segment_node6",
+                "target": "Bahnhof"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut-2_segment_node0",
+                "target": "AmKurparkOut-2_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut-2_segment_node1",
+                "target": "AmKurparkOut-2_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut-2_segment_node2",
+                "target": "AmKurparkOut-2_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut-2_segment_node3",
+                "target": "AmKurparkOut-2_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut-2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut-2_segment_node4",
+                "target": "AmKurparkOut-2_segment_node5"
+            },
+            {
+                "distance": 0.037,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut-2_segment_node5",
+                "target": "Kurhotel_Temp"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node0",
+                "target": "AmKurparkOut_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node1",
+                "target": "AmKurparkOut_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node2",
+                "target": "AmKurparkOut_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node3",
+                "target": "AmKurparkOut_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node4",
+                "target": "AmKurparkOut_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node5",
+                "target": "AmKurparkOut_segment_node6"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node6",
+                "target": "AmKurparkOut_segment_node7"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node7",
+                "target": "AmKurparkOut_segment_node8"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "AmKurparkOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node8",
+                "target": "AmKurparkOut_segment_node9"
+            },
+            {
+                "distance": 0.068,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "AmKurparkOut_segment_node9",
+                "target": "Kurpark_Temp"
+            },
+            {
+                "distance": 0.287,
+                "speed_limit": 17.17073170731707,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Bahnhof",
+                "target": "AmKurparkOut-2_segment_node0"
+            },
+            {
+                "distance": 0.095,
+                "speed_limit": 11.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Bahnhof",
+                "target": "BahnhofstraßeIn_segment_node0"
+            },
+            {
+                "distance": 0.374,
+                "speed_limit": 17.363636363636353,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Bahnhof",
+                "target": "Kurhotel_Temp"
+            },
+            {
+                "distance": 0.603,
+                "speed_limit": 11.000000000000002,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Bahnhof",
+                "target": "Viktor_von_Scheffel"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 11.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeIn_segment_node0",
+                "target": "BahnhofstraßeIn_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 11.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeIn_segment_node1",
+                "target": "BahnhofstraßeIn_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 11.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeIn_segment_node2",
+                "target": "BahnhofstraßeIn_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 11.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeIn_segment_node3",
+                "target": "BahnhofstraßeIn_segment_node4"
+            },
+            {
+                "distance": 0.468,
+                "speed_limit": 10.999999999999998,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeIn_segment_node4",
+                "target": "Viktor_von_Scheffel"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node0",
+                "target": "BahnhofstraßeOut-3_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node1",
+                "target": "BahnhofstraßeOut-3_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node2",
+                "target": "BahnhofstraßeOut-3_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node3",
+                "target": "BahnhofstraßeOut-3_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node4",
+                "target": "BahnhofstraßeOut-3_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-3",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node5",
+                "target": "BahnhofstraßeOut-3_segment_node6"
+            },
+            {
+                "distance": 0.273,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-3_segment_node6",
+                "target": "Post_Temp"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-4",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node0",
+                "target": "BahnhofstraßeOut-4_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-4",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node1",
+                "target": "BahnhofstraßeOut-4_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-4",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node2",
+                "target": "BahnhofstraßeOut-4_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-4",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node3",
+                "target": "BahnhofstraßeOut-4_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-4",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node4",
+                "target": "BahnhofstraßeOut-4_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut-4",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node5",
+                "target": "BahnhofstraßeOut-4_segment_node6"
+            },
+            {
+                "distance": 0.45,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut-4_segment_node6",
+                "target": "Post_Temp"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node0",
+                "target": "BahnhofstraßeOut_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node1",
+                "target": "BahnhofstraßeOut_segment_node2"
+            },
+            {
+                "distance": 0.152,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node10",
+                "target": "Post_Temp"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node2",
+                "target": "BahnhofstraßeOut_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node3",
+                "target": "BahnhofstraßeOut_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node4",
+                "target": "BahnhofstraßeOut_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node5",
+                "target": "BahnhofstraßeOut_segment_node6"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node6",
+                "target": "BahnhofstraßeOut_segment_node7"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node7",
+                "target": "BahnhofstraßeOut_segment_node8"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node8",
+                "target": "BahnhofstraßeOut_segment_node9"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "BahnhofstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "BahnhofstraßeOut_segment_node9",
+                "target": "BahnhofstraßeOut_segment_node10"
+            },
+            {
+                "distance": 0.214,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Depot",
+                "target": "OberauerstraßeIn_segment_node0"
+            },
+            {
+                "distance": 0.455,
+                "speed_limit": 17.999999999999993,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Depot",
+                "target": "Obermaintherme"
+            },
+            {
+                "distance": 0.074,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Innenstadt_Temp",
+                "target": "Kirchgasse"
+            },
+            {
+                "distance": 0.024,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Innenstadt_Temp",
+                "target": "Kirchgasse1_segment_node0"
+            },
+            {
+                "distance": 0.199,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Italienischer_Platz",
+                "target": "BahnhofstraßeOut-3_segment_node0"
+            },
+            {
+                "distance": 0.022,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Italienischer_Platz",
+                "target": "BahnhofstraßeOut-4_segment_node0"
+            },
+            {
+                "distance": 0.28,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Italienischer_Platz",
+                "target": "BahnhofstraßeOut_segment_node0"
+            },
+            {
+                "distance": 0.532,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Italienischer_Platz",
+                "target": "Post_Temp"
+            },
+            {
+                "distance": 0.02,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse",
+                "target": "Kirchgasse2_segment_node0"
+            },
+            {
+                "distance": 0.133,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse",
+                "target": "Stadtmuseum"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse1",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse1_segment_node0",
+                "target": "Kirchgasse1_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse1",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse1_segment_node1",
+                "target": "Kirchgasse1_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse1",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse1_segment_node2",
+                "target": "Kirchgasse1_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse1",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse1_segment_node3",
+                "target": "Kirchgasse1_segment_node4"
+            },
+            {
+                "distance": 0.006,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse1",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse1_segment_node4",
+                "target": "146305719-Kirchgasse-973812018"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse2_segment_node0",
+                "target": "Kirchgasse2_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse2_segment_node1",
+                "target": "Kirchgasse2_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 8.0,
+                "constructible_charger": [
+                    {
+                        "id": "Kirchgasse2",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse2_segment_node2",
+                "target": "Kirchgasse2_segment_node3"
+            },
+            {
+                "distance": 0.083,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kirchgasse2_segment_node3",
+                "target": "Stadtmuseum"
+            },
+            {
+                "distance": 0.009,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kurhotel_Temp",
+                "target": "970745483-Kurhotel_Temp-1846362584"
+            },
+            {
+                "distance": 0.177,
+                "speed_limit": 17.999999999999996,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kurhotel_Temp",
+                "target": "Kurpark_Temp"
+            },
+            {
+                "distance": 0.306,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kurpark_Temp",
+                "target": "1846362584"
+            },
+            {
+                "distance": 0.512,
+                "speed_limit": 17.99999999999999,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kurpark_Temp",
+                "target": "Depot"
+            },
+            {
+                "distance": 0.113,
+                "speed_limit": 17.999999999999996,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Kurpark_Temp",
+                "target": "Obermaintherme"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node0",
+                "target": "OberauerstraßeIn_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node1",
+                "target": "OberauerstraßeIn_segment_node2"
+            },
+            {
+                "distance": 0.141,
+                "speed_limit": 18.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node10",
+                "target": "Obermaintherme"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node2",
+                "target": "OberauerstraßeIn_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node3",
+                "target": "OberauerstraßeIn_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node4",
+                "target": "OberauerstraßeIn_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node5",
+                "target": "OberauerstraßeIn_segment_node6"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node6",
+                "target": "OberauerstraßeIn_segment_node7"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node7",
+                "target": "OberauerstraßeIn_segment_node8"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node8",
+                "target": "OberauerstraßeIn_segment_node9"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeIn",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeIn_segment_node9",
+                "target": "OberauerstraßeIn_segment_node10"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node0",
+                "target": "OberauerstraßeOut_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node1",
+                "target": "OberauerstraßeOut_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node2",
+                "target": "OberauerstraßeOut_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node3",
+                "target": "OberauerstraßeOut_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node4",
+                "target": "OberauerstraßeOut_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node5",
+                "target": "OberauerstraßeOut_segment_node6"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node6",
+                "target": "OberauerstraßeOut_segment_node7"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node7",
+                "target": "OberauerstraßeOut_segment_node8"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 18.0,
+                "constructible_charger": [
+                    {
+                        "id": "OberauerstraßeOut",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node8",
+                "target": "OberauerstraßeOut_segment_node9"
+            },
+            {
+                "distance": 0.106,
+                "speed_limit": 18.000000000000004,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "OberauerstraßeOut_segment_node9",
+                "target": "Depot"
+            },
+            {
+                "distance": 0.472,
+                "speed_limit": 17.99999999999999,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Obermaintherme",
+                "target": "165132555"
+            },
+            {
+                "distance": 0.296,
+                "speed_limit": 17.999999999999996,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Obermaintherme",
+                "target": "AmKurparkIn-2_segment_node0"
+            },
+            {
+                "distance": 0.61,
+                "speed_limit": 17.999999999999986,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Obermaintherme",
+                "target": "Bahnhof"
+            },
+            {
+                "distance": 0.085,
+                "speed_limit": 13.800000000000002,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Post_Temp",
+                "target": "Bahnhof"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node0",
+                "target": "Ringstraße_segment_node1"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node1",
+                "target": "Ringstraße_segment_node2"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node10",
+                "target": "Ringstraße_segment_node11"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node11",
+                "target": "Ringstraße_segment_node12"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node12",
+                "target": "Ringstraße_segment_node13"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node13",
+                "target": "Ringstraße_segment_node14"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node14",
+                "target": "Ringstraße_segment_node15"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node15",
+                "target": "Ringstraße_segment_node16"
+            },
+            {
+                "distance": 0.055,
+                "speed_limit": 5.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node16",
+                "target": "Italienischer_Platz"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node2",
+                "target": "Ringstraße_segment_node3"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node3",
+                "target": "Ringstraße_segment_node4"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node4",
+                "target": "Ringstraße_segment_node5"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node5",
+                "target": "Ringstraße_segment_node6"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node6",
+                "target": "Ringstraße_segment_node7"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node7",
+                "target": "Ringstraße_segment_node8"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node8",
+                "target": "Ringstraße_segment_node9"
+            },
+            {
+                "distance": 0.01,
+                "speed_limit": 5.0,
+                "constructible_charger": [
+                    {
+                        "id": "Ringstraße",
+                        "segment_construction_cost": 0.00019,
+                        "transformer_construction_cost": 0.0,
+                        "charging_rate": 7
+                    }
+                ],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Ringstraße_segment_node9",
+                "target": "Ringstraße_segment_node10"
+            },
+            {
+                "distance": 0.006,
+                "speed_limit": 5.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Stadtmuseum",
+                "target": "251344514-Stadtmuseum-4359009412"
+            },
+            {
+                "distance": 0.241,
+                "speed_limit": 5.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Stadtmuseum",
+                "target": "Italienischer_Platz"
+            },
+            {
+                "distance": 0.137,
+                "speed_limit": 8.0,
+                "constructible_charger": [],
+                "consumption_overwrite": "",
+                "travel_time_overwrite": "",
+                "source": "Viktor_von_Scheffel",
+                "target": "Innenstadt_Temp"
+            }
+        ]
+    },
+    "routes": [
+        {
+            "stop_sequence": [
+                {
+                    "vertex_id": "Depot",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18091.0,
+                    "latest_time_of_service": 18091.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18091.0,
+                    "latest_time_of_service": 18592.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18591.0,
+                    "latest_time_of_service": 18754
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18771.0,
+                    "latest_time_of_service": 18952.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18951.0,
+                    "latest_time_of_service": 19132.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19131.0,
+                    "latest_time_of_service": 19312.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19311.0,
+                    "latest_time_of_service": 19492.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19491.0,
+                    "latest_time_of_service": 19992.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19991.0,
+                    "latest_time_of_service": 20232.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20231.0,
+                    "latest_time_of_service": 20472.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20471.0,
+                    "latest_time_of_service": 20712.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20711.0,
+                    "latest_time_of_service": 20952.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20952.0,
+                    "latest_time_of_service": 21453.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 21452.0,
+                    "latest_time_of_service": 21615
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 21632.0,
+                    "latest_time_of_service": 21813.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 21812.0,
+                    "latest_time_of_service": 21993.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 21992.0,
+                    "latest_time_of_service": 22173.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22172.0,
+                    "latest_time_of_service": 22353.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22352.0,
+                    "latest_time_of_service": 22853.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22852.0,
+                    "latest_time_of_service": 23093.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23092.0,
+                    "latest_time_of_service": 23333.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23332.0,
+                    "latest_time_of_service": 23573.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23572.0,
+                    "latest_time_of_service": 23813.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23813.0,
+                    "latest_time_of_service": 24314.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24313.0,
+                    "latest_time_of_service": 24476
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24493.0,
+                    "latest_time_of_service": 24674.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24673.0,
+                    "latest_time_of_service": 24854.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24853.0,
+                    "latest_time_of_service": 25034.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25033.0,
+                    "latest_time_of_service": 25214.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25213.0,
+                    "latest_time_of_service": 25714.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25713.0,
+                    "latest_time_of_service": 25954.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25953.0,
+                    "latest_time_of_service": 26194.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 26193.0,
+                    "latest_time_of_service": 26434.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 26433.0,
+                    "latest_time_of_service": 26674.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 26674.0,
+                    "latest_time_of_service": 27175.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27174.0,
+                    "latest_time_of_service": 27337
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27354.0,
+                    "latest_time_of_service": 27535.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27534.0,
+                    "latest_time_of_service": 27715.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27714.0,
+                    "latest_time_of_service": 27895.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27894.0,
+                    "latest_time_of_service": 28075.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28074.0,
+                    "latest_time_of_service": 28575.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28574.0,
+                    "latest_time_of_service": 28815.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28814.0,
+                    "latest_time_of_service": 29055.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 29054.0,
+                    "latest_time_of_service": 29295.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 29294.0,
+                    "latest_time_of_service": 29535.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 29535.0,
+                    "latest_time_of_service": 30036.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30035.0,
+                    "latest_time_of_service": 30198
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30215.0,
+                    "latest_time_of_service": 30396.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30395.0,
+                    "latest_time_of_service": 30576.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30575.0,
+                    "latest_time_of_service": 30756.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30755.0,
+                    "latest_time_of_service": 30936.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30935.0,
+                    "latest_time_of_service": 31436.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31435.0,
+                    "latest_time_of_service": 31676.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31675.0,
+                    "latest_time_of_service": 31916.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31915.0,
+                    "latest_time_of_service": 32156.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 32155.0,
+                    "latest_time_of_service": 32396.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 32396.0,
+                    "latest_time_of_service": 32897.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 32896.0,
+                    "latest_time_of_service": 33059
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33076.0,
+                    "latest_time_of_service": 33257.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33256.0,
+                    "latest_time_of_service": 33437.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33436.0,
+                    "latest_time_of_service": 33617.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33616.0,
+                    "latest_time_of_service": 33797.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33796.0,
+                    "latest_time_of_service": 34297.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34296.0,
+                    "latest_time_of_service": 34537.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34536.0,
+                    "latest_time_of_service": 34777.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34776.0,
+                    "latest_time_of_service": 35017.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35016.0,
+                    "latest_time_of_service": 35257.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35257.0,
+                    "latest_time_of_service": 35758.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35757.0,
+                    "latest_time_of_service": 35920
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35937.0,
+                    "latest_time_of_service": 36118.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36117.0,
+                    "latest_time_of_service": 36298.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36297.0,
+                    "latest_time_of_service": 36478.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36477.0,
+                    "latest_time_of_service": 36658.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36657.0,
+                    "latest_time_of_service": 37158.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37157.0,
+                    "latest_time_of_service": 37398.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37397.0,
+                    "latest_time_of_service": 37638.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37637.0,
+                    "latest_time_of_service": 37878.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37877.0,
+                    "latest_time_of_service": 38118.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38118.0,
+                    "latest_time_of_service": 38619.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38618.0,
+                    "latest_time_of_service": 38781
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38798.0,
+                    "latest_time_of_service": 38979.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38978.0,
+                    "latest_time_of_service": 39159.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39158.0,
+                    "latest_time_of_service": 39339.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39338.0,
+                    "latest_time_of_service": 39519.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39518.0,
+                    "latest_time_of_service": 40019.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40018.0,
+                    "latest_time_of_service": 40259.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40258.0,
+                    "latest_time_of_service": 40499.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40498.0,
+                    "latest_time_of_service": 40739.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40738.0,
+                    "latest_time_of_service": 40979.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40979.0,
+                    "latest_time_of_service": 41480.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41479.0,
+                    "latest_time_of_service": 41642
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41659.0,
+                    "latest_time_of_service": 41840.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41839.0,
+                    "latest_time_of_service": 42020.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42019.0,
+                    "latest_time_of_service": 42200.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42199.0,
+                    "latest_time_of_service": 42380.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42379.0,
+                    "latest_time_of_service": 42880.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42879.0,
+                    "latest_time_of_service": 43120.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43119.0,
+                    "latest_time_of_service": 43360.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43359.0,
+                    "latest_time_of_service": 43600.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43599.0,
+                    "latest_time_of_service": 43840.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43840.0,
+                    "latest_time_of_service": 44341.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44340.0,
+                    "latest_time_of_service": 44503
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44520.0,
+                    "latest_time_of_service": 44701.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44700.0,
+                    "latest_time_of_service": 44881.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44880.0,
+                    "latest_time_of_service": 45061.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45060.0,
+                    "latest_time_of_service": 45241.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45240.0,
+                    "latest_time_of_service": 45741.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45740.0,
+                    "latest_time_of_service": 45981.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45980.0,
+                    "latest_time_of_service": 46221.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 46220.0,
+                    "latest_time_of_service": 46461.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 46460.0,
+                    "latest_time_of_service": 46701.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 46701.0,
+                    "latest_time_of_service": 47202.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47201.0,
+                    "latest_time_of_service": 47364
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47381.0,
+                    "latest_time_of_service": 47562.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47561.0,
+                    "latest_time_of_service": 47742.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47741.0,
+                    "latest_time_of_service": 47922.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47921.0,
+                    "latest_time_of_service": 48102.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48101.0,
+                    "latest_time_of_service": 48602.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48601.0,
+                    "latest_time_of_service": 48842.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48841.0,
+                    "latest_time_of_service": 49082.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49081.0,
+                    "latest_time_of_service": 49322.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49321.0,
+                    "latest_time_of_service": 49459
+                },
+                {
+                    "vertex_id": "Depot",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49562.0,
+                    "latest_time_of_service": 49562.0
+                }
+            ],
+            "vehicle_id": "Shuttle1"
+        },
+        {
+            "stop_sequence": [
+                {
+                    "vertex_id": "Depot",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18091.0,
+                    "latest_time_of_service": 18091.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18091.0,
+                    "latest_time_of_service": 18592.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18591.0,
+                    "latest_time_of_service": 18754
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18771.0,
+                    "latest_time_of_service": 18952.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 18951.0,
+                    "latest_time_of_service": 19132.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19131.0,
+                    "latest_time_of_service": 19312.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19311.0,
+                    "latest_time_of_service": 19492.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19491.0,
+                    "latest_time_of_service": 19992.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 19991.0,
+                    "latest_time_of_service": 20232.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20231.0,
+                    "latest_time_of_service": 20472.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20471.0,
+                    "latest_time_of_service": 20712.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 20711.0,
+                    "latest_time_of_service": 20952.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 21852.0,
+                    "latest_time_of_service": 22353.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22352.0,
+                    "latest_time_of_service": 22515
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22532.0,
+                    "latest_time_of_service": 22713.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22712.0,
+                    "latest_time_of_service": 22893.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 22892.0,
+                    "latest_time_of_service": 23073.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23072.0,
+                    "latest_time_of_service": 23253.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23252.0,
+                    "latest_time_of_service": 23753.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23752.0,
+                    "latest_time_of_service": 23993.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 23992.0,
+                    "latest_time_of_service": 24233.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24232.0,
+                    "latest_time_of_service": 24473.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24472.0,
+                    "latest_time_of_service": 24713.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 24713.0,
+                    "latest_time_of_service": 25214.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25213.0,
+                    "latest_time_of_service": 25376
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25393.0,
+                    "latest_time_of_service": 25574.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25573.0,
+                    "latest_time_of_service": 25754.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25753.0,
+                    "latest_time_of_service": 25934.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 25933.0,
+                    "latest_time_of_service": 26114.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 26113.0,
+                    "latest_time_of_service": 26614.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 26613.0,
+                    "latest_time_of_service": 26854.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 26853.0,
+                    "latest_time_of_service": 27094.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27093.0,
+                    "latest_time_of_service": 27334.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27333.0,
+                    "latest_time_of_service": 27574.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 27574.0,
+                    "latest_time_of_service": 28075.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28074.0,
+                    "latest_time_of_service": 28237
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28254.0,
+                    "latest_time_of_service": 28435.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28434.0,
+                    "latest_time_of_service": 28615.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28614.0,
+                    "latest_time_of_service": 28795.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28794.0,
+                    "latest_time_of_service": 28975.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 28974.0,
+                    "latest_time_of_service": 29475.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 29474.0,
+                    "latest_time_of_service": 29715.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 29714.0,
+                    "latest_time_of_service": 29955.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 29954.0,
+                    "latest_time_of_service": 30195.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30194.0,
+                    "latest_time_of_service": 30435.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30435.0,
+                    "latest_time_of_service": 30936.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 30935.0,
+                    "latest_time_of_service": 31098
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31115.0,
+                    "latest_time_of_service": 31296.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31295.0,
+                    "latest_time_of_service": 31476.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31475.0,
+                    "latest_time_of_service": 31656.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31655.0,
+                    "latest_time_of_service": 31836.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 31835.0,
+                    "latest_time_of_service": 32336.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 32335.0,
+                    "latest_time_of_service": 32576.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 32575.0,
+                    "latest_time_of_service": 32816.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 32815.0,
+                    "latest_time_of_service": 33056.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33055.0,
+                    "latest_time_of_service": 33296.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33296.0,
+                    "latest_time_of_service": 33797.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33796.0,
+                    "latest_time_of_service": 33959
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 33976.0,
+                    "latest_time_of_service": 34157.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34156.0,
+                    "latest_time_of_service": 34337.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34336.0,
+                    "latest_time_of_service": 34517.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34516.0,
+                    "latest_time_of_service": 34697.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 34696.0,
+                    "latest_time_of_service": 35197.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35196.0,
+                    "latest_time_of_service": 35437.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35436.0,
+                    "latest_time_of_service": 35677.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35676.0,
+                    "latest_time_of_service": 35917.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 35916.0,
+                    "latest_time_of_service": 36157.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36157.0,
+                    "latest_time_of_service": 36658.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36657.0,
+                    "latest_time_of_service": 36820
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 36837.0,
+                    "latest_time_of_service": 37018.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37017.0,
+                    "latest_time_of_service": 37198.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37197.0,
+                    "latest_time_of_service": 37378.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37377.0,
+                    "latest_time_of_service": 37558.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 37557.0,
+                    "latest_time_of_service": 38058.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38057.0,
+                    "latest_time_of_service": 38298.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38297.0,
+                    "latest_time_of_service": 38538.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38537.0,
+                    "latest_time_of_service": 38778.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 38777.0,
+                    "latest_time_of_service": 39018.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39018.0,
+                    "latest_time_of_service": 39519.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39518.0,
+                    "latest_time_of_service": 39681
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39698.0,
+                    "latest_time_of_service": 39879.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 39878.0,
+                    "latest_time_of_service": 40059.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40058.0,
+                    "latest_time_of_service": 40239.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40238.0,
+                    "latest_time_of_service": 40419.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40418.0,
+                    "latest_time_of_service": 40919.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 40918.0,
+                    "latest_time_of_service": 41159.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41158.0,
+                    "latest_time_of_service": 41399.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41398.0,
+                    "latest_time_of_service": 41639.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41638.0,
+                    "latest_time_of_service": 41879.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 41879.0,
+                    "latest_time_of_service": 42380.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42379.0,
+                    "latest_time_of_service": 42542
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42559.0,
+                    "latest_time_of_service": 42740.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42739.0,
+                    "latest_time_of_service": 42920.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 42919.0,
+                    "latest_time_of_service": 43100.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43099.0,
+                    "latest_time_of_service": 43280.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43279.0,
+                    "latest_time_of_service": 43780.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 43779.0,
+                    "latest_time_of_service": 44020.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44019.0,
+                    "latest_time_of_service": 44260.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44259.0,
+                    "latest_time_of_service": 44500.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44499.0,
+                    "latest_time_of_service": 44740.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 44740.0,
+                    "latest_time_of_service": 45241.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45240.0,
+                    "latest_time_of_service": 45403
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45420.0,
+                    "latest_time_of_service": 45601.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45600.0,
+                    "latest_time_of_service": 45781.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45780.0,
+                    "latest_time_of_service": 45961.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 45960.0,
+                    "latest_time_of_service": 46141.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 46140.0,
+                    "latest_time_of_service": 46641.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 46640.0,
+                    "latest_time_of_service": 46881.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 46880.0,
+                    "latest_time_of_service": 47121.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47120.0,
+                    "latest_time_of_service": 47361.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47360.0,
+                    "latest_time_of_service": 47601.0
+                },
+                {
+                    "vertex_id": "Obermaintherme",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 47601.0,
+                    "latest_time_of_service": 48102.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48101.0,
+                    "latest_time_of_service": 48264
+                },
+                {
+                    "vertex_id": "Viktor_von_Scheffel",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48281.0,
+                    "latest_time_of_service": 48462.0
+                },
+                {
+                    "vertex_id": "Innenstadt_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48461.0,
+                    "latest_time_of_service": 48642.0
+                },
+                {
+                    "vertex_id": "Kirchgasse",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48641.0,
+                    "latest_time_of_service": 48822.0
+                },
+                {
+                    "vertex_id": "Stadtmuseum",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 48821.0,
+                    "latest_time_of_service": 49002.0
+                },
+                {
+                    "vertex_id": "Italienischer_Platz",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49001.0,
+                    "latest_time_of_service": 49502.0
+                },
+                {
+                    "vertex_id": "Post_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49501.0,
+                    "latest_time_of_service": 49742.0
+                },
+                {
+                    "vertex_id": "Bahnhof",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49741.0,
+                    "latest_time_of_service": 49982.0
+                },
+                {
+                    "vertex_id": "Kurhotel_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 49981.0,
+                    "latest_time_of_service": 50222.0
+                },
+                {
+                    "vertex_id": "Kurpark_Temp",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 50221.0,
+                    "latest_time_of_service": 50359
+                },
+                {
+                    "vertex_id": "Depot",
+                    "stopover_time": 0.0,
+                    "earliest_time_of_service": 50462.0,
+                    "latest_time_of_service": 50462.0
+                }
+            ],
+            "vehicle_id": "Shuttle2"
+        }
+    ]
+}
