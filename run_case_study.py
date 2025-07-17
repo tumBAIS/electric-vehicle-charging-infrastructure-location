@@ -9,7 +9,6 @@ from dataclasses import asdict
 from framework.intermediate_representation import parse_intermediate_representation
 from iterative_local_search.iterative_local_search import ILSParameters, ILSSolver
 from framework.instance_parameter import InstanceParameters
-from data_hof import parse_hof_instance
 from math_programming_model.math_programming_solver import MathProgrammingParameters, MathProgrammingSolver
 
 print("Number of arguments:", len(sys.argv), "arguments.")
