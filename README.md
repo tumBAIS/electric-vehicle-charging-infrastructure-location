@@ -34,7 +34,7 @@ python setup.py install
 
 4. [Optional] Download and install catch2 (https://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md)
 
-5. Build the project with CMake in release mode
+5. Build the project with CMake in release mode (tested with MSVC)
 
 ```bash
 cd ./network_cpp
