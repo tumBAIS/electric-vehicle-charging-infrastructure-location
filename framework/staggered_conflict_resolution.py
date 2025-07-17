@@ -15,12 +15,12 @@ from docplex.mp.conflict_refiner import ConflictRefiner
 from docplex.mp.solution import SolveSolution
 
 EPSILON = 1
-# hof: all big-M constraints 1e5
+# hof & test cases: all big-M constraints 1e5
 # solomon:: 1e9
-BIG_M_1 = 1e9
-BIG_M_2 = 1e9
-BIG_M_3 = 1e9
-BIG_M_4 = 1e9
+BIG_M_1 = 1e5
+BIG_M_2 = 1e5
+BIG_M_3 = 1e5
+BIG_M_4 = 1e5
 HOUR2SECONDS = 3600
 
 
