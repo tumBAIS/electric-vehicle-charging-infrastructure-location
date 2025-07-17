@@ -35,7 +35,7 @@ def _parse_solomon(instance_name: str):
 
 
 def main(rn):
-    sol_rep = SolutionRepresentation.load_from_json(f"./Instance_parser/evrptw_instance_solutions/{rn}.json")
+    sol_rep = SolutionRepresentation.load_from_json(f"./Instances/evrptw_instance_solutions/{rn}.json")
     intermediate_rep, speed, consumption, max_capacity = _parse_solomon(rn)
     intermediate_rep = preprocessor.simplify_intermediate_repr(intermediate_rep, True)
     intermediate_rep = preprocessor.preprocess_time_windows_in_inter_rep(intermediate_rep, vehicle_maxspeed=speed)
