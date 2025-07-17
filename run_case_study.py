@@ -97,7 +97,7 @@ def main(
         energy_prices[10] = 0.04
 
     # in case we want to load from file
-    intermediate_rep = parse_intermediate_representation(f"Instance_parser/{city}_instances/{run_name}_{dev_string}.json")
+    intermediate_rep = parse_intermediate_representation(f"./Instances/{city}_instances/{run_name}_{dev_string}.json")
 
     # update cost in case they changed vs. saved instance
     intermediate_rep.update_static_charger(static_transformer_cost, static_charging_rate)
